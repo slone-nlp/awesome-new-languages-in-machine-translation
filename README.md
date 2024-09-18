@@ -31,13 +31,13 @@ Also, some notable projects for increasing the translation quality for an alread
 - Interface: https://lango.to/ 
 - Paper (for an old version): https://aclanthology.org/2022.fieldmatters-1.6/
 
-Additionally, see [TartuNLP](finno-ugric-languages-tartunlp).
+Additionally, see [TartuNLP](#finno-ugric-languages-tartunlp).
 
 ## Fula
 - Model: https://huggingface.co/flutter-painter/nllb-fra-fuf-v2
 
 ## Hill Mari
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Interslavic
 - Model: https://huggingface.co/Salavat/nllb-200-distilled-600M-finetuned-isv_v2
@@ -48,22 +48,22 @@ See [TartuNLP](finno-ugric-languages-tartunlp)
 - Interface: https://tahrirchi.uz/uz/translator
 
 ## Komi
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Livonian
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Livvi Karelian
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Mansi
 - Github:  https://github.com/anyasarybaeva/Mansi-Legends
 
 ## Mari (Meadow)
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Moksha
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Ngambay
 - Paper: https://aclanthology.org/2023.nlp4tia-1.6.pdf
@@ -78,7 +78,7 @@ See [TartuNLP](finno-ugric-languages-tartunlp)
 - Interface: https://tyvan.ru/
 
 ## Udmurt
-See [TartuNLP](finno-ugric-languages-tartunlp)
+See [TartuNLP](#finno-ugric-languages-tartunlp)
 
 ## Zarma
 - Paper: https://arxiv.org/abs/2406.05888
