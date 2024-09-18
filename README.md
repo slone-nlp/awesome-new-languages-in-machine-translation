@@ -1,6 +1,13 @@
 # Awesome-new-languages-in-machine-translation
-A list of initiatives for adding new languages to opensource machine translation models.
+This is a list of initiatives for adding new languages to opensource machine translation models (such as [NLLB](https://github.com/facebookresearch/fairseq/tree/nllb)).
+
 Also, some notable projects for increasing the translation quality for an already supported low-resourced language would be highlighted.
+
+The first part of the document lists individual languages in the alphabetic order of their English names.
+
+The second part of the document lists multilingual initiatives.
+
+Any new additions are welcome (in the form of pull requests or issues)!
 
 # Single-language projects
 
