@@ -1,4 +1,4 @@
-# Awesome-new-languages-in-machine-translation
+# Awesome New Languages in Machine Translation
 This is a list of initiatives for adding new languages to opensource machine translation models (such as [NLLB](https://github.com/facebookresearch/fairseq/tree/nllb)).
 
 Also, some notable projects for increasing the translation quality for an already supported low-resourced language would be highlighted.
@@ -104,4 +104,13 @@ Multiple Finno-Ugric languages (including Komi, Udmurt, Hill and Meadow Mari, Er
 Indigenous languages of the Americas (including Ashaninka, Aymara, Bribri, Chatino, Guarani, Hñähñu, Nahuatl, Quechua, Raramuri, Shipibo-Konibo, and Wixarika from the AmericasNLP Mt shared task, and Wayuunaiki, Arhuaco, Inga, and Nasa – additionally)
 - Paper: https://aclanthology.org/2023.americasnlp-1.19.pdf 
 - Paper: https://aclanthology.org/2024.americasnlp-1.22.pdf
-- Paper: https://aclanthology.org/2024.americasnlp-1.2.pdf 
+- Paper: https://aclanthology.org/2024.americasnlp-1.2.pdf
+
+## Hundreds of diverse languages (Apertium)
+Apertium is a system of rule-based machine translation. 
+
+Currently, it has linguistic tools (such as dictionaries and morphological parsers) for an insane number of languages, but only few of them (51 language pairs) have been developed to a state considered stable enough for publicly releasing a translation service.
+
+- Code: https://github.com/apertium
+- Interface (with only a subset of the most stable language pairs): https://www.apertium.org/
+  
