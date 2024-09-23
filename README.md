@@ -57,6 +57,14 @@ See [TartuNLP](#finno-ugric-languages-tartunlp)
 ## Komi
 See [TartuNLP](#finno-ugric-languages-tartunlp)
 
+## Lezgian
+`lez`, [lezg1247](https://glottolog.org/resource/languoid/id/lezg1247)
+
+- Model: https://huggingface.co/leks-forever/nllb-200-distilled-600M
+- Code: https://github.com/leks-forever/nllb-tuning
+- Demo: https://huggingface.co/spaces/leks-forever/lezghian-nllb-200-distilled-600M
+- Description (in Russian): [in a Telegram channel](https://t.me/saidgood/248)
+
 ## Livonian
 See [TartuNLP](#finno-ugric-languages-tartunlp)
 
