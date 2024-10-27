@@ -18,7 +18,9 @@ Any new additions are welcome (in the form of pull requests or issues)!
 - Model: https://huggingface.co/dylan-leddy/nllb-eng-ami-reverse
 
 ## Aromanian
-- Code and description: https://github.com/lolismek/AroTranslate 
+- Code and description: https://github.com/lolismek/AroTranslate
+- Paper: https://arxiv.org/abs/2410.17728
+- Interface: https://arotranslate.com/
 
 ## Awajun
 - Model: https://huggingface.co/hectordiazgomez/nllb-spa-awa-v2
